@@ -2,11 +2,11 @@ Coder c'est stylé
 
 -Echauffement
 Un site web / genre de bloc avec des modules
-Sam:= base de données, architecture du projet (PHP) et des machines (système physique)
+Sarjevane:= base de données, architecture du projet (PHP) et des machines (système physique)
 Librarie de génération d'images aléatoires
-Rodolphe:= interaction avec utilisateur
-Canelle:= tente le design & définir la méthodologie
-Lucie:= tbd
+Eiswolf:= interaction avec utilisateur
+Clbt:= tente le design & définir la méthodologie
+Lul:= tbd
 
 
 Fonctionnalités:
@@ -33,3 +33,9 @@ Arriver sur la page, rentrer un pseudo et chatter.
 Historique / derniers sujets ouverts / salle de discussion – affiche quinze derniers messages postés. 
 Option pour parler en privé à quelqu'un. Définir les types de salle. 
 -système de login/logout ensuite
+
+TDL:
+Définir la méthodologie de travail (Clbt)
+Faire cahier des charges -implications des fonctionnalités, qu'est ce que tu veux dans le résultat final? (Eiswolf)
+Réfléchir aux fonctionalités
+Installer le serveur (Sarjevane)
